@@ -1,4 +1,4 @@
-# abnormal_temperature_prediction
+# Task Description
 Create time series random temperature data with condition label and predict future condition of temperature with ML algorithms
 
 In this self-tutirial, the time series data of temperature is manually generated. 
